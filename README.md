@@ -27,3 +27,6 @@ about it at the start of each recursive call.
 Describe your reasoning and the conclusion you've come to. Your reasoning is the
 most important part. You do not need to prove that the invariant is correct. Add
 your answer to this markdown file.
+
+a good invariant would be [n] = [n-1]+[n-2] because this is always true at the begining of each recursion.
+
